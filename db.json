@@ -1,0 +1,28 @@
+{
+  "cliente": [
+    {
+      "nombre": "radny",
+      "empresa": "rndproyec",
+      "email": "rnadny@gsafg.com",
+      "telefono": "8095386834",
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "tramporte",
+      "empresa": "rndproyec",
+      "email": "randycanela02@gmail.com",
+      "telefono": "8095386834",
+      "notas": "eqf",
+      "id": 4
+    },
+    {
+      "nombre": "rndad",
+      "empresa": "rndproyec",
+      "email": "randycanela02@gmail.com",
+      "telefono": "8095386834",
+      "notas": "wwqrwqtrwt",
+      "id": 5
+    }
+  ]
+}
